@@ -1,4 +1,4 @@
-![Proje Ekran Görüntüsü](medium.png)
+
 
 # Bootstrap Medium Klonu
 Bootstrap Medium Klonu, Medium'un modern ve şık kullanıcı arayüzünü Bootstrap kullanarak yeniden oluşturmayı amaçlayan bir projedir. Bu proje, kullanıcıların Medium'un kullanıcı dostu arayüzünü analiz etmelerine ve aynısını oluşturarak kullanıcı deneyimini geliştirmelerine olanak tanır.
